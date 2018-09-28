@@ -1,0 +1,27 @@
+{
+  "name": "paye-mod-test",
+  "version": "1.0.0",
+  "description": "PAYE Modernisation connectivity testing",
+  "scripts": {
+    "test": "nodemon ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onsite-solutions/paye-mod-test.git"
+  },
+  "author": "On Site Solutions",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onsite-solutions/paye-mod-test/issues"
+  },
+  "homepage": "https://github.com/onsite-solutions/paye-mod-test#readme",
+  "dependencies": {
+    "@types/node": "^10.11.2",
+    "@types/node-forge": "^0.7.5",
+    "node-forge": "^0.7.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4",
+    "typescript": "^3.1.1"
+  }
+}

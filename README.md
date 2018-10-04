@@ -14,3 +14,5 @@ var epn = '1234567T';
 var name = 'Fake Company';
 var password = 'password';
 ```
+
+Once configuration is complete, run the command **npm run test** to perform the connectivity test.
